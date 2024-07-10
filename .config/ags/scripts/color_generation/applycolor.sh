@@ -177,6 +177,8 @@ apply_ags &
 apply_hyprland &
 apply_hyprlock &
 apply_lightdark &
-apply_gtk &
+# gradience is no longer available on AUR:
+# temporarily removing GTK theming
+# apply_gtk &
 apply_fuzzel &
 apply_term &
